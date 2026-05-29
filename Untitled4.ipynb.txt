@@ -1,0 +1,48 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 141
+        },
+        "id": "DraHS5U9iwRO",
+        "outputId": "36094757-99f2-4bb7-e52c-2fda8edf72ba"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (3625300477.py, line 5)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"/tmp/ipykernel_1402/3625300477.py\"\u001b[0;36m, line \u001b[0;32m5\u001b[0m\n\u001b[0;31m    else:\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ],
+      "source": [
+        "plant_condition = \"yellow spots\"\n",
+        "\n",
+        "if plant_condition == \"yellow spots\":\n",
+        "    print(\"Plant may have disease\")\n",
+        "    else:\n",
+        "        print(\"Plant is healthy\")"
+      ]
+    }
+  ]
+}
